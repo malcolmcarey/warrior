@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warrior", "warrior\warrior.csproj", "{45B2D299-6345-4DC5-A0BA-8AADDC1C3582}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface_scatch", "interface_scatch\interface_scatch.csproj", "{877E0E99-5CA8-44AA-A35D-A66BAE438C21}"
+EndProject
 Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{45B2D299-6345-4DC5-A0BA-8AADDC1C3582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45B2D299-6345-4DC5-A0BA-8AADDC1C3582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B2D299-6345-4DC5-A0BA-8AADDC1C3582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B2D299-6345-4DC5-A0BA-8AADDC1C3582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877E0E99-5CA8-44AA-A35D-A66BAE438C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877E0E99-5CA8-44AA-A35D-A66BAE438C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877E0E99-5CA8-44AA-A35D-A66BAE438C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877E0E99-5CA8-44AA-A35D-A66BAE438C21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
